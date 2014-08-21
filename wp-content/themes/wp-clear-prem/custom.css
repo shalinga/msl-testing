@@ -1,0 +1,17 @@
+/* -- This is the place to add your own style modifications without touching the original styles -- */
+.shopping-cart-wrapper .empty {
+margin-top: 10px;
+padding-left: 10px;
+}
+
+#searchform #submitbutton, p.email-form .subbutton, a.comment-reply-link, a.comment-reply-link:link, a.comment-reply-link:visited, #commentform input#submit, .archive-tabs a, .archive-tabs a:link, .archive-tabs a:visited, a.more-link, a.more-link:link, a.more-link:visited {
+background: #c5a10b;
+}
+
+.wpsc_buy_button{
+border-color: #C5A10B;
+font-weight: normal;
+color: white;
+background: #C5A10B url(../images/button-grad.png) repeat-x scroll left top;
+text-shadow: rgba(0, 0, 0, 0.3) 0 -1px 0;
+}

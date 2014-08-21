@@ -1,0 +1,99 @@
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Language Switcher\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2005-10-05 22:49+0200\n"
+"PO-Revision-Date: 2007-09-20 16:34-0800\n"
+"Last-Translator: Jennifer Hodgdon <jen@poplarware.com>\n"
+"Language-Team: Catalan <ca@dodds.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: langswitch.php:148
+#: langswitch.php:154
+msgid "Language List"
+msgstr "Llista d'idiomes"
+
+#: langswitch.php:348
+msgid "Language Switcher Options"
+msgstr "Opcions del selector d'idioma"
+
+#: langswitch.php:349
+msgid "Language Switcher"
+msgstr "Selector d'idioma"
+
+#: langswitch.php:363
+msgid "ISO Code"
+msgstr "Codi ISO"
+
+#: langswitch.php:364
+#: langswitch.php:987
+msgid "Language"
+msgstr "Idioma"
+
+#: langswitch.php:364
+msgid "Flag File"
+msgstr "Fitxer de bandera"
+
+#: langswitch.php:365
+msgid "Time Format"
+msgstr "Format d'hora"
+
+#: langswitch.php:366
+msgid "Date Format"
+msgstr "Format de data"
+
+#: langswitch.php:366
+msgid "Text Missing Message"
+msgstr "Missatge d'error"
+
+#: langswitch.php:366
+msgid "Delete"
+msgstr "Esborrar"
+
+#: langswitch.php:418
+msgid "Options saved."
+msgstr "Opcions guardades."
+
+#: langswitch.php:426
+msgid "Language Switcher Settings"
+msgstr "Configuració del selector d'idioma"
+
+#: langswitch.php:428
+msgid "Visit the <a href=\"http://www.poplarware.com/languageplugin.html\">Language Switcher Plugin</a> page for complete information on the plugin and these settings."
+msgstr "Visita la pàgina de <a href=\"http://www.poplarware.com/languageplugin.html\">Language Switcher Plugin</a> si vols més informació sobre aquest plugin."
+
+#: langswitch.php:430
+msgid "A list of the two-letter ISO language codes can be found on <a href=\"http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes\">this Wikipedia site</a>."
+msgstr "Pots trobar la llista dels codis ISO dels diferents idiomes a <a href=\"http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes\">a questa pàgina de la Wikipedia</a>."
+
+#: langswitch.php:432
+msgid "A list of the WordPress/PHP date and time formatting codes can be found on <a href=\"http://us3.php.net/date\">this PHP documentation page</a>."
+msgstr "Pots trobar la llista de formats de data i hora en <a href=\"http://us3.php.net/date\">aquesta pàgina de la documentació de PHP</a>."
+
+#: langswitch.php:442
+msgid "Default language ISO code:"
+msgstr "Codi ISO de l'idioma:"
+
+#: langswitch.php:447
+msgid "Blog Languages"
+msgstr "Idiomes del Blog"
+
+#: langswitch.php:488
+msgid "Add New"
+msgstr "Afegir Nou"
+
+#: langswitch.php:495
+msgid "Update Options"
+msgstr "Actualitzar Opcions"
+
+#: langswitch.php:1016
+msgid "Show Names?"
+msgstr "Mostrar Noms?"
+
+#: langswitch.php:1018
+msgid "Show Flags?"
+msgstr "Mostrar Banderes?"
+

@@ -1,0 +1,148 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Language Switcher 1.18\n"
+"POT-Creation-Date: 2009-03-17 12:19-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: langswitch.php:195 langswitch.php:201
+msgid "Language List"
+msgstr ""
+
+#: langswitch.php:397
+msgid "Language Switcher Options"
+msgstr ""
+
+#. #-#-#-#-#  langswitch.pot (Language Switcher 1.18)  #-#-#-#-#
+#. Plugin Name of an extension
+#: langswitch.php:398
+msgid "Language Switcher"
+msgstr ""
+
+#: langswitch.php:415
+msgid "ISO Code"
+msgstr ""
+
+#: langswitch.php:416 langswitch.php:1333
+msgid "Language"
+msgstr ""
+
+#: langswitch.php:416
+msgid "Flag File"
+msgstr ""
+
+#: langswitch.php:417
+msgid "Time Format"
+msgstr ""
+
+#: langswitch.php:417
+msgid "Date Format"
+msgstr ""
+
+#: langswitch.php:418
+msgid "Text Missing Message"
+msgstr ""
+
+#: langswitch.php:418
+msgid "Delete"
+msgstr ""
+
+#: langswitch.php:494
+msgid "Options saved."
+msgstr ""
+
+#: langswitch.php:502
+msgid "Language Switcher Settings"
+msgstr ""
+
+#: langswitch.php:504
+msgid ""
+"Visit the <a href=\"http://www.poplarware.com/languageplugin.html\">Language "
+"Switcher Plugin</a> page for complete information on the plugin and these "
+"settings."
+msgstr ""
+
+#: langswitch.php:506
+msgid ""
+"A list of the two-letter ISO language codes can be found on <a href=\"http://"
+"en.wikipedia.org/wiki/List_of_ISO_639-1_codes\">this Wikipedia site</a>."
+msgstr ""
+
+#: langswitch.php:508
+msgid ""
+"A list of the WordPress/PHP date and time formatting codes can be found on "
+"<a href=\"http://us3.php.net/date\">this PHP documentation page</a>."
+msgstr ""
+
+#: langswitch.php:518
+msgid "Default language ISO code:"
+msgstr ""
+
+#: langswitch.php:523
+msgid "Blog Languages"
+msgstr ""
+
+#: langswitch.php:564
+msgid "Add New"
+msgstr ""
+
+#: langswitch.php:576
+msgid ""
+"Check this box to force Language Switcher URL suffixes to use ? or &amp;, if "
+"you are having trouble with permalink-style URL suffixes"
+msgstr ""
+
+#: langswitch.php:586
+msgid ""
+"Check this box to force Language Switcher to put a language URL suffix on "
+"every link (by default, Language Switcher omits URL suffixes for your "
+"default language in some cases)"
+msgstr ""
+
+#: langswitch.php:590
+msgid "URL slug for Language Switcher:"
+msgstr ""
+
+#: langswitch.php:595
+msgid "Update Options"
+msgstr ""
+
+#: langswitch.php:677
+msgid ""
+"No information on Language Switcher updates. Check the plugin home page, or "
+"subscribe to its RSS feed."
+msgstr ""
+
+#: langswitch.php:1363
+msgid "Show Names?"
+msgstr ""
+
+#: langswitch.php:1365
+msgid "Show Flags?"
+msgstr ""
+
+#. Plugin URI of an extension
+msgid "http://www.poplarware.com/languageplugin.html"
+msgstr ""
+
+#. Description of an extension
+msgid ""
+"Lets you set up a bilingual or multi-lingual blog, where you write all blog "
+"content, categories, etc. in multiple languages, and your readers choose "
+"which language to view. Plugin home page has lots of information on how to "
+"set it up. Based on <a href=\"http://fredfred.net/skriker/index.php/polyglot"
+"\">Polyglot</a>, by Martin Chlupac."
+msgstr ""
+
+#. Author of an extension
+msgid "Jennifer Hodgdon, Poplar ProductivityWare"
+msgstr ""
+
+#. Author URI of an extension
+msgid "http://poplarware.com"
+msgstr ""

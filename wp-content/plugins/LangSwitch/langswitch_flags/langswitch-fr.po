@@ -1,0 +1,110 @@
+# French (France) translation for WordPress
+# Copyright (c) (c) 2004 Canonical Ltd, and Rosetta Contributors 2004
+# This file is distributed under the same license as the WordPress package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2004.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress 2.3\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2004-12-21 02:45:29.728614\n"
+"PO-Revision-Date: 2007-10-06 21:06+0900\n"
+"Last-Translator: Nicolas Miyamoto <nicolas.miyamoto@gmail.com>\n"
+"Language-Team: French (France) <wp@>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Rosetta-Version: 0.1\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;_c;__\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n>1\n"
+"X-Poedit-SearchPath-0: I:\\w3\\iwao\n"
+
+#: langswitch.php:148
+#: langswitch.php:154
+msgid "Language List"
+msgstr "Liste des langages"
+
+#: langswitch.php:348
+msgid "Language Switcher Options"
+msgstr "Options de changement de langage"
+
+#: langswitch.php:349
+msgid "Language Switcher"
+msgstr "Changement de langage"
+
+#: langswitch.php:363
+msgid "ISO Code"
+msgstr "Code ISO"
+
+#: langswitch.php:364
+#: langswitch.php:987
+msgid "Language"
+msgstr "Langage"
+
+#: langswitch.php:364
+msgid "Flag File"
+msgstr "Fichier drapeau"
+
+#: langswitch.php:365
+msgid "Time Format"
+msgstr "Format de temps"
+
+#: langswitch.php:366
+msgid "Date Format"
+msgstr "Format de date"
+
+#: langswitch.php:366
+msgid "Text Missing Message"
+msgstr "Message pour texte manquant"
+
+#: langswitch.php:366
+msgid "Delete"
+msgstr "Supprimer "
+
+#: langswitch.php:418
+msgid "Options saved."
+msgstr "Options sauvegardées."
+
+#: langswitch.php:426
+msgid "Language Switcher Settings"
+msgstr "Paramètres de changement de langage"
+
+#: langswitch.php:428
+msgid "Visit the <a href=\"http://www.poplarware.com/languageplugin.html\">Language Switcher Plugin</a> page for complete information on the plugin and these settings."
+msgstr "Visiter la page du <a href=\"http://www.poplarware.com/languageplugin.html\">Plugin Language Switcher</a> pour toute information sur le plugin et ses paramètres."
+
+#: langswitch.php:430
+msgid "A list of the two-letter ISO language codes can be found on <a href=\"http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes\">this Wikipedia site</a>."
+msgstr "Une liste des codes de langages en deux lettres est disponible sur <a href=\"http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes\">cette page Wikipedia</a>."
+
+#: langswitch.php:432
+msgid "A list of the WordPress/PHP date and time formatting codes can be found on <a href=\"http://us3.php.net/date\">this PHP documentation page</a>."
+msgstr "Une liste des formats de date/temps pour WordPress/PHP est disponible sur <a href=\"http://us3.php.net/date\">cette page de de documentation PHP</a>."
+
+#: langswitch.php:442
+msgid "Default language ISO code:"
+msgstr "Code ISO du langage par défaut:"
+
+#: langswitch.php:447
+msgid "Blog Languages"
+msgstr "Langages du blog"
+
+#: langswitch.php:488
+msgid "Add New"
+msgstr "Ajouter un nouveau"
+
+#: langswitch.php:495
+msgid "Update Options"
+msgstr "Mettre à jour les options"
+
+#: langswitch.php:1016
+msgid "Show Names?"
+msgstr "Afficher les noms?"
+
+#: langswitch.php:1018
+msgid "Show Flags?"
+msgstr "Afficher les drapeaux?"
+
